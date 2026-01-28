@@ -1,12 +1,5 @@
-title: 隐私协议
 theme: jekyll-theme-cayman
-# 支持中文文件名和编码
-encoding: utf-8
-# 强制Jekyll处理所有MD文件（包括中文命名）
-include:
-  - "*.md"
-# 禁用无关功能，提升渲染效率
-plugins: []
-exclude:
-  - README.md
-  - .gitignore
+
+show_downloads: false
+github:
+  is_project_page: false
