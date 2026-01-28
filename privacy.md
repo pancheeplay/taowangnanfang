@@ -1,10 +1,5 @@
 ---
-# 给Jekyll的头部配置（不影响内容，仅用于渲染 ）
-layout: default
 title: 逃往南方隐私政策
-show_downloads: false
-github:
-  is_project_page: false
 ---
 
 ## 温馨提示
