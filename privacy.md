@@ -1,7 +1,7 @@
 ---
 # 给Jekyll的头部配置（不影响内容，仅用于渲染）
 layout: default
-title: 逃往南方 - 隐私协议
+title: 逃往南方隐私政策
 show_downloads: false  # 关键：去掉View on GitHub按钮
 ---
 
